@@ -40,7 +40,7 @@ const questions = [
   {
     type: "list",
     name: "shape-logo",
-    message: "Choose your shape?",
+    message: "Choose your shape 1 = Circle, 2 = Square, 3 = Triangle :",
     choices: ["Circle", "Square", "Triangle"],
   },
   {
